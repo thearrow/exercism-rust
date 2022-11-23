@@ -10,10 +10,13 @@
       <sourceFolder url="file://$MODULE_DIR$/lucians-luscious-lasagna/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/semi-structured-logs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/semi-structured-logs/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sublist/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sublist/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/hello-world/target" />
       <excludeFolder url="file://$MODULE_DIR$/lucians-luscious-lasagna/target" />
       <excludeFolder url="file://$MODULE_DIR$/assembly-line/target" />
       <excludeFolder url="file://$MODULE_DIR$/semi-structured-logs/target" />
+      <excludeFolder url="file://$MODULE_DIR$/sublist/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
