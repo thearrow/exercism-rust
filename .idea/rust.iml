@@ -20,6 +20,8 @@
       <sourceFolder url="file://$MODULE_DIR$/clock/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/low-power-embedded-game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/low-power-embedded-game/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/magazine-cutout/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/magazine-cutout/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/role-playing-game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/role-playing-game/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/short-fibonacci/src" isTestSource="false" />
@@ -35,6 +37,7 @@
       <excludeFolder url="file://$MODULE_DIR$/short-fibonacci/target" />
       <excludeFolder url="file://$MODULE_DIR$/low-power-embedded-game/target" />
       <excludeFolder url="file://$MODULE_DIR$/role-playing-game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/magazine-cutout/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
