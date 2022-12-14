@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/sublist/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/resistor-color/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/resistor-color/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/allergies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/allergies/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/anagram/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/anagram/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/clock/src" isTestSource="false" />
@@ -50,6 +52,7 @@
       <excludeFolder url="file://$MODULE_DIR$/anagram/target" />
       <excludeFolder url="file://$MODULE_DIR$/reverse-string/target" />
       <excludeFolder url="file://$MODULE_DIR$/proverb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/allergies/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
